@@ -7,7 +7,12 @@ var loop = function(collection, callback) {
 };
 
 // write your talkToUser function here:
-
+loop(string, function(promptType){
+if(promptType === log)
+if(promptType === alert)
+if(promptType === prompt);
+}
+});
 
 // Use this to test your talkToUser function:
 
